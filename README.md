@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HuseyinDemirturk/count.svg" />
-</p>
-
 ## About me
 
 Hi there 👋. I’m **Hüseyin Demirtürk**, a passionate and results-driven **Mobile Developer** specializing in **React Native, Swift, and Kotlin**.  
