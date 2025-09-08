@@ -1,17 +1,9 @@
 # Merhaba, ben Hüseyin Demirtürk 👋
 
+![Coding GIF](https://media.giphy.com/media/3o7TKP2OuUMf1x2bL6/giphy.gif)
+
 💻 **React Native | Swift | Kotlin Developer**  
-🌐 Mobil uygulama geliştirme, WebView entegrasyonları ve global projelerle ilgileniyorum  
-🎯 Hedefim: Global teknoloji firmalarında çalışmak ve sürekli kendimi geliştirmek  
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Swift, Kotlin, Python  
-- **Frameworks / Libraries:** React Native, Redux/Zustand, RTK Query, SwiftUI, Jetpack Compose  
-- **Backend / APIs:** Laravel, Firebase, REST APIs  
-- **Tools:** VS Code, Xcode, Android Studio, Git & GitHub, Figma  
+🌐 Mobil uygulama geliştirme ve global projeler üzerine çalışıyorum  
 
 ---
 
@@ -22,30 +14,19 @@
 
 ---
 
-## 🚀 Hedefler & İlgi Alanları
+## ⚡ Hedefler & İlgi Alanları
 
-- Mobil uygulama geliştirme ve optimizasyon  
-- Swift ile API projeleri yapmak  
-- React Native ile cross-platform uygulamalar geliştirmek  
-- Kod ve tasarım ile kullanıcı deneyimini birleştirmek  
-- LeetCode ve algoritma üzerine kendimi geliştirmek  
+- Cross-platform mobil uygulamalar geliştirmek  
+- Swift ve Kotlin ile API projeleri yapmak  
+- Kod ve tasarımı birleştirip kullanıcı deneyimi odaklı uygulamalar yaratmak  
+- LeetCode ve algoritmalar üzerinde kendimi geliştirmek  
 
 ---
 
 ## 📫 Bana Ulaş
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyindemirturk/)  
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:huseyin@example.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=ko-fi&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyindemirturk/)   [![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:huseyin@example.com)  
 
 ---
 
-## ⚡ Eğlenceli Bilgiler
-
-- Futsal oynadım ve takım liderliği yaptım ⚽  
-- İHA geliştirme projelerinde aktif görev aldım 🚁  
-- Kod yazarken kahve vazgeçilmezim ☕  
-
----
-
-> “Kod yazmak sadece iş değil, bir sanattır.” 🖋️
+![Motivasyon GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
