@@ -1,16 +1,51 @@
-## Hi there 👋
+# Merhaba, ben Hüseyin Demirtürk 👋
 
-<!--
-**Huseyindmrtrk/Huseyindmrtrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **React Native | Swift | Kotlin Developer**  
+🌐 Mobil uygulama geliştirme, WebView entegrasyonları ve global projelerle ilgileniyorum  
+🎯 Hedefim: Global teknoloji firmalarında çalışmak ve sürekli kendimi geliştirmek  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Swift, Kotlin, Python  
+- **Frameworks / Libraries:** React Native, Redux/Zustand, RTK Query, SwiftUI, Jetpack Compose  
+- **Backend / APIs:** Laravel, Firebase, REST APIs  
+- **Tools:** VS Code, Xcode, Android Studio, Git & GitHub, Figma  
+
+---
+
+## 📊 GitHub İstatistikler
+
+![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuseyinDemirturk&show_icons=true&theme=radical&count_private=true)  
+![Hüseyin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinDemirturk&layout=compact&theme=radical)  
+
+---
+
+## 🚀 Hedefler & İlgi Alanları
+
+- Mobil uygulama geliştirme ve optimizasyon  
+- Swift ile API projeleri yapmak  
+- React Native ile cross-platform uygulamalar geliştirmek  
+- Kod ve tasarım ile kullanıcı deneyimini birleştirmek  
+- LeetCode ve algoritma üzerine kendimi geliştirmek  
+
+---
+
+## 📫 Bana Ulaş
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyindemirturk/)  
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:huseyin@example.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=ko-fi&logoColor=white)](https://yourportfolio.com)  
+
+---
+
+## ⚡ Eğlenceli Bilgiler
+
+- Futsal oynadım ve takım liderliği yaptım ⚽  
+- İHA geliştirme projelerinde aktif görev aldım 🚁  
+- Kod yazarken kahve vazgeçilmezim ☕  
+
+---
+
+> “Kod yazmak sadece iş değil, bir sanattır.” 🖋️
