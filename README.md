@@ -11,5 +11,4 @@ I strive to deliver high-quality and maintainable mobile applications while cont
 
 ## Get in touch :coffee:
 
-- [GitHub](https://github.com/HuseyinDemirturk)
 - [LinkedIn](https://www.linkedin.com/in/huseyindemirturk)
