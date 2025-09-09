@@ -11,6 +11,10 @@ I strive to deliver high-quality and maintainable mobile applications while cont
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuseyinDemirturk&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuseyinDemirturk&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinDemirturk&layout=compact&theme=radical)
+
 ## Get in touch :coffee:
 
 - [LinkedIn](https://www.linkedin.com/in/huseyindemirturk)
