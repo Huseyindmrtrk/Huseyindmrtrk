@@ -1,7 +1,4 @@
 # Hey there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AD87&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;Programmer;Mobile+Application+Developer;Tech+Enthusiast;Software+Developer)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
 </p>
@@ -10,11 +7,14 @@
 
 ## About me
 
-Hi there 👋. I’m **Hüseyin Demirtürk**, a passionate and results-driven **Mobile Developer** specializing in **React Native, Swift, and Kotlin**.  
-I’ve been actively involved in the full development lifecycle of projects like **Habertürk, BloombergHT, and Show TV** — and I’m currently working at **Koç Healthcare**.
+Hi there 👋. I’m **Hüseyin Demirtürk**,  
+I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AD87&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;Programmer;Mobile+Application+Developer;Tech+Enthusiast;Software+Developer)](https://git.io/typing-svg).
+
+I’m a passionate and results-driven **Mobile Developer** specializing in **React Native, Swift, and Kotlin**.  
+I’ve been actively involved in the full development lifecycle of projects like **Habertürk, BloombergHT, and Show TV**, and I’m currently working at **Koç Healthcare**.
 
 I strive to deliver high-quality and maintainable mobile applications while continuously exploring new technologies.  
-Beyond work, I enjoy sharing knowledge, experimenting with new frameworks, and building side projects that push my skills further.  
+Beyond work, I enjoy sharing knowledge, experimenting with new frameworks, and building side projects that push my skills further.
 
 ---
 
