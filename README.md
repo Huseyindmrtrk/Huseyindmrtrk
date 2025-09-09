@@ -1,12 +1,6 @@
 # Hey there 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Hüseyin+Demirtürk;Mobile+Developer+%7C+React+Native+%7C+Swift+%7C+Kotlin" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
 </p>
 
