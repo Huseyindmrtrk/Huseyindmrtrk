@@ -1,5 +1,7 @@
 # Hey there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AD87&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;Programmer;Mobile+Application+Developer;Tech+Enthusiast;Software+Developer)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" />
 </p>
