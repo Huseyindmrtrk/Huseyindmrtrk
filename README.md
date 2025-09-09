@@ -7,6 +7,8 @@
 ## About Me
 
 Hi there 👋, I’m **Hüseyin Demirtürk**
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7AD87&random=true&width=435&height=30&lines=Computer+Engineer;Programmer;Mobile+Application+Developer;Tech+Enthusiast;Software+Developer)](https://git.io/typing-svg)
 
 I’ve contributed to the full development lifecycle of projects like **Habertürk, BloombergHT, and Show TV**, and I’m currently part of **Koç Healthcare**.  
