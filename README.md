@@ -16,19 +16,4 @@ I enjoy building maintainable apps, exploring new technologies, and sharing know
 
 ---
 
-## 🏆 Achievements & Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HuseyinDemirturk&theme=onedark&row=1&column=6" alt="trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuseyinDemirturk&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinDemirturk&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyindemirturk)
